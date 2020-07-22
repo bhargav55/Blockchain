@@ -1,4 +1,4 @@
-# Decentralized-Job-portal
+# Decentralized Job portal
 
 The application acts as one stop portal for Recruiters to post the jobs, Job seekers to apply for jobs. The user (Recruiter, Job seeker) details and job details 
 are stored in ethereum blockchain. Recruiter can post the jobs and can view the applicants for the job with the public address(metamask account) of the applicants.
